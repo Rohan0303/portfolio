@@ -884,7 +884,7 @@ footer a i {
 }
 
 /* break-points */
-@media (max-width:10800000000000%) {
+@media screen {
   .achievements{
     display: none;
   }
