@@ -633,7 +633,7 @@ section {
   animation-delay: calc(var(--i)*0.05s);
 }
 
-/* portfolio section */
+/* Projects section */
 .fillter-buttons {
   margin: 2rem;
   text-align: center;
@@ -655,7 +655,7 @@ section {
   color: var(--hover-color);
 }
 
-.portfolio-gallery {
+.Projects-gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
   gap: 2rem;
@@ -714,8 +714,8 @@ section {
 }
 
 .port-content h3 {
-  font-size: 1.5rem;
-  font-weight: 600;
+  font-size: 1.0rem;
+  font-weight: 1000;
 }
 
 .port-content p {

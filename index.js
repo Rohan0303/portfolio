@@ -57,8 +57,8 @@ circles.forEach((elem) => {
     pointsMarked[i].classList.add("marked");
   }
 });
-// mix it up portfolio section
-var mixer = mixitup(".portfolio-gallery");
+// mix it up Projects section
+var mixer = mixitup(".Projects-gallery");
 
 // active menu
 let menuLi = document.querySelectorAll("header ul li a");
