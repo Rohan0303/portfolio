@@ -884,6 +884,11 @@ footer a i {
 }
 
 /* break-points */
+@media (max-width:10800px) {
+  .achievements{
+    display: none;
+  }
+}
 @media(max-width:991px) {
 
   header,
@@ -917,9 +922,7 @@ footer a i {
   .social-icons {
     margin-top: 2rem;
   }
-  .achievements{
-    display: none;
-  }
+  
 }
 
 @media(max-width:768px) {
