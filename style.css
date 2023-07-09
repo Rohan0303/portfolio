@@ -444,6 +444,9 @@ section {
   font-size: 1rem;
   font-weight: 600;
 }
+.achievements{
+  display: none;
+}
 
 
 /* service section */
@@ -884,11 +887,6 @@ footer a i {
 }
 
 /* break-points */
-@media screen {
-  .achievements{
-    display: none;
-  }
-}
 @media(max-width:991px) {
 
   header,
@@ -924,11 +922,7 @@ footer a i {
   }
   
 }
-@media(max-width:769px) {
-  .achievements{
-    display: none;
-  }
-}
+
 @media(max-width:768px) {
   #menu-icon {
     display: block;
