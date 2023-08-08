@@ -449,7 +449,7 @@ section {
 }
 
 
-/* service section */
+/* education section */
 
 .main-text {
   width: 100%;
@@ -471,7 +471,7 @@ section {
   text-transform: uppercase;
 }
 
-.section-services {
+.section-education {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -479,7 +479,7 @@ section {
   grid-gap: 2rem;
 }
 
-.section-services .service-box {
+.section-education .service-box {
   flex: 1 1 18rem;
   padding: 2rem 1rem 2rem;
   text-align: center;
